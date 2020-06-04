@@ -1,6 +1,5 @@
 body,
 html {
-  cursor: url('dino.ico');
   background-color: black;
   color: white;
   font-family: 'Ubuntu Condensed', sans-serif;
@@ -32,28 +31,28 @@ html {
 
 
 
-#me{
+#bio{
   background-color: #13403F;
 }
-#bio {
+#education{
   background-color: #E86850; }
 
-#spoiled{
+#recently{
   background-color: #fbdada;
 }
 
-#girls {
+#freelance{
   background-color: #581C34; }
 
-#sidestuff{
+#present{
   background-color: #21354D;
 }
 
-#gwc {
+#rep {
   background-image: url("b22.jpg");
   background-size: 50% auto; }
 
-#hack {
+#past {
   background-color: #fff400; }
 
 #code {
